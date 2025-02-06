@@ -1,7 +1,7 @@
 ## Hi. I'm Marco Suárez 💻
 I'm a dedicated and insightful **Fullstack Developer** and **Project Manager** with **5+ years** of experience. I encourage clean code and _best practices_ on my teams, focus on optimizing development experience and enhancing work organization.
 
-## Skills
+## These are my skills
 ### Frontend Frameworks
 <p>
     <img alt="Angular" src="https://img.shields.io/badge/-Angular-DF432F?style=flat&logo=angular&logoColor=white&link=https://https://angular.dev/" />
@@ -37,3 +37,16 @@ I'm a dedicated and insightful **Fullstack Developer** and **Project Manager** w
 </p>
 
 
+## This is my journey
+### Fullstack Dev - Odalys (2020 - 2022)
+I started working in Odalys as a Junior dev, then acquired the whole responsibilty of the project. I made improvements in every part of the project and developed multiple comercial modules.
+
+### Fullstack Dev and Project Manager - Aether Solutions (2019 - present)
+My career started here has a Junior dev. I've worked on +20 projects as a **developer**, **Project Manger** or **Lead Engineer**.
+
+## Contact me
+<p>
+    <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:marcosuarezp95@gmail.com" />
+    <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white&link=https://github.com/marksasp95" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&link=https://linkedin.com/in/marco-su%C3%A1rez-703356117/" />
+</p>
