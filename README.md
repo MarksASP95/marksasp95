@@ -1,5 +1,5 @@
 ## Hi. I'm Marco Suárez 💻
-I'm a dedicated and insightful **Fullstack Developer** and **Project Manager** with **5+ years** of experience. I encourage clean code and _best practices_ on my teams, focus on optimizing development experience and enhancing work organization.
+I'm a dedicated and insightful **Fullstack Developer** and **Project Manager** with **5+ years** of experience. I encourage clean code and **best practices** on my teams, focus on optimizing development experience and enhancing work organization.
 
 ## These are my skills
 ### Frontend Frameworks
