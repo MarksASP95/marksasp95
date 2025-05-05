@@ -46,7 +46,13 @@ My career started here has a Junior dev. I've worked on +20 projects as a **deve
 
 ## Contact me
 <p>
-    <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:marcosuarezp95@gmail.com" />
-    <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white&link=https://github.com/marksasp95" />
-    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&link=https://linkedin.com/in/marco-su%C3%A1rez-703356117/" />
+    <a href="mailto:marcosuarezp95@gmail.com" target="_blank" ref="noopener noreferrer">
+        <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://github.com/marksasp95" target="_blank" ref="noopener noreferrer">
+        <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" />
+    </a>
+    <a href="https://linkedin.com/in/marco-su%C3%A1rez-703356117/" target="_blank" ref="noopener noreferrer">
+        <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+    </a>
 </p>
