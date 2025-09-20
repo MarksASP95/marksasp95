@@ -1,5 +1,6 @@
 ## Hi. I'm Marco Suárez 💻
-I'm a dedicated and insightful **Fullstack Developer** and **Project Manager** with **5+ years** of experience. I encourage clean code and **best practices** on my teams, focus on optimizing development experience and enhancing work organization.
+
+Hi, I’m a **Full-stack** engineer with 6+ years of experience building scalable solutions across fintech, e-commerce, insurance, and entertainment. I work on Frontend, Backend, and Mobile projects, focusing on code quality, CI/CD, and performance. Passionate about user-first products and helping teams learn, improve, and deliver meaningful features.
 
 ## These are my skills
 
