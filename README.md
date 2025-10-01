@@ -5,6 +5,7 @@ Hi, I’m a **Full-stack** engineer with 6+ years of experience building scalabl
 ## These are my skills
 
 ### Languages
+
 <p>
     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white&link=https://www.typescriptlang.org/" />
     <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black&link=https://developer.mozilla.org/en-US/docs/Web/JavaScript" />
@@ -15,6 +16,7 @@ Hi, I’m a **Full-stack** engineer with 6+ years of experience building scalabl
 </p>
 
 ### Frontend Frameworks & UI
+
 <p>
     <img alt="Angular" src="https://img.shields.io/badge/-Angular-DF432F?style=flat&logo=angular&logoColor=white&link=https://https://angular.dev/" />
     <img alt="ReactJS" src="https://img.shields.io/badge/-React-43D8FD?style=flat&logo=react&logoColor=white&link=https://https://react.dev/" />
@@ -27,6 +29,7 @@ Hi, I’m a **Full-stack** engineer with 6+ years of experience building scalabl
 </p>
 
 ### Backend and Databases
+
 <p>
     <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-339933?style=flat&logo=node.js&logoColor=white&link=https://nodejs.org/" />
     <img alt="ExpressJS" src="https://img.shields.io/badge/-ExpressJS-333333?style=flat&logo=express&logoColor=white&link=https%3A%2F%2Fexpressjs.com" />
@@ -43,6 +46,7 @@ Hi, I’m a **Full-stack** engineer with 6+ years of experience building scalabl
 </p>
 
 ### Mobile
+
 <p>
     <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-31B9F6?style=flat&logo=flutter&logoColor=white&link=https://flutter.dev/" />
     <img alt="Android" src="https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white&link=https://developer.android.com/" />
@@ -51,6 +55,7 @@ Hi, I’m a **Full-stack** engineer with 6+ years of experience building scalabl
 </p>
 
 ### DevOps & Cloud
+
 <p>
     <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white&link=https://www.docker.com/" />
     <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white&link=https://github.com/features/actions" />
@@ -63,21 +68,25 @@ Hi, I’m a **Full-stack** engineer with 6+ years of experience building scalabl
 </p>
 
 ### Tools
+
 <p>
     <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white&link=https://www.docker.com/" />
     <img alt="Github Actions" src="https://img.shields.io/badge/-Github%20Actions-1F2328?style=flat&logo=github&logoColor=white&link=https%3A%2F%2Fgithub.com" />
     
 </p>
 
-
 ## This is my journey
+
 ### Fullstack Dev and Project Manager - Aether Solutions (2019 - present)
+
 My career started here has a Junior and grew into **Senior** and **Tech Lead**. Built financial systems for money transfers across Latin America, modernized legacy codebases, and developed cross-platform apps. I've worked on +20 projects as a **developer**, **Project Manger** and **Lead Engineer** while focusing on code quality, continuos integration and solving business needs.
 
 ### Fullstack Dev - Odalys (2020 - 2022)
+
 I started working in Odalys as a Junior dev, then acquired the whole responsibilty of the project. I made improvements in every part of the project and developed multiple comercial modules. Focused on making it fast and user-friendly. Got great experience working directly with clients and seeing a complete platform come to life.
 
 ## Contact me
+
 <p>
     <a href="mailto:marcosuarezp95@gmail.com" target="_blank" ref="noopener noreferrer">
         <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
@@ -85,7 +94,7 @@ I started working in Odalys as a Junior dev, then acquired the whole responsibil
     <a href="https://github.com/marksasp95" target="_blank" ref="noopener noreferrer">
         <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" />
     </a>
-    <a href="https://linkedin.com/in/marco-su%C3%A1rez-703356117/" target="_blank" ref="noopener noreferrer">
+    <a href="https://linkedin.com/in/marco-suarez-703356117/" target="_blank" ref="noopener noreferrer">
         <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
     </a>
 </p>
