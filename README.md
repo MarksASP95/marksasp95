@@ -77,7 +77,7 @@ Hi, I’m a **Full-stack** engineer with 6+ years of experience building scalabl
 
 ## This is my journey
 
-### Fullstack Dev and Project Manager - Aether Solutions (2019 - present)
+### Senior Dev and Tech Lead - Aether Solutions (2019 - present)
 
 My career started here has a Junior and grew into **Senior** and **Tech Lead**. Built financial systems for money transfers across Latin America, modernized legacy codebases, and developed cross-platform apps. I've worked on +20 projects as a **developer**, **Project Manger** and **Lead Engineer** while focusing on code quality, continuos integration and solving business needs.
 
